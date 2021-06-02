@@ -1,0 +1,44 @@
+
+
+body{
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-seif;
+}
+.content{
+	box-shadow: inset 0px 30px 50px 50px #f2f2f2;
+	padding: 15px;
+	border-left: none;
+	border-right: none;
+}
+.fontsize20{
+	font-size: 20px;
+}
+.fontweight600{
+	font-weight: 600;
+}
+.fontsize15{
+	font-size: 15px;
+}
+.colorgray{
+   color: #4d4d4d;
+}
+.container{
+   max-width: 1180px;
+   margin: 0px auto;
+}
+.nav_row{
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.img{
+	float: left;
+	width: 70px;
+}
+.block {
+  margin:  3px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  font-size: 13px;
+  cursor: pointer;
+  text-align: center;
+}
